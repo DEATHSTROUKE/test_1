@@ -1,4 +1,5 @@
-**/congfig.js
-**/secure/
-**/secret/
-**/*.hacker
+config.js
+*/config.js
+secure/
+secret/
+*.hacker
